@@ -1,0 +1,19 @@
+Serialization
+
+readObject
+wroteObject
+
+readResolve
+writeReplace
+
+Secutiry with Serialization
+
+Transient variables
+
+
+Todo :
+
+1) readExternal & writeExternal ?
+2) Externalizable interface ? 
+3) java revisited serialization questions
+4) what if parent is not serializable will its entries be serialized ?
